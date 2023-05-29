@@ -284,7 +284,7 @@ h2 {
 }
 
 #company-address {
-  background: url(assets/bilboard.png);
+  background: url(../images/bilboard.png);
   background-position: center;
   background-size: cover;
   width: 100%;
